@@ -1,0 +1,23 @@
+
+The dataset comprises the following features that will be used to train the hotel cancellation prediction model:
+
+Lead Time: The number of days between booking and check-in (numeric).
+Arrival Date: The date of arrival at the hotel (date).
+Stays in Weekend Nights: The number of weekend nights stayed (integer).
+Stays in Week Nights: The number of weeknights stayed (integer).
+Adults: The number of adults in the booking (integer).
+Children: The number of children in the booking (integer).
+Babies: The number of babies in the booking (integer).
+Meal Type: Type of meal booked (categorical: "BB", "HB", "FB", "SC", "Undefined").
+Previous Cancellations: Number of previous booking cancellations for the guest (integer).
+Previous Bookings Not Canceled: Number of previous bookings not canceled by the guest (integer).
+Booking Changes: Number of changes made to the booking (integer).
+Deposit Type: Type of deposit made for the booking (categorical: "No Deposit", "Non Refund", "Refundable").
+Agent: ID of the travel agency that made the booking (categorical).
+Company: ID of the company/entity that made the booking or the guest (categorical).
+Days in Waiting List: Number of days the booking was in the waiting list (integer).
+Customer Type: Type of booking (categorical: "Transient", "Contract", "Transient-Party", "Group").
+Required Car Parking Spaces: Number of car parking spaces requested (integer).
+Total Special Requests: Number of special requests made by the guest (integer).
+Reservation Status: The final status of the reservation (categorical: "Check-Out", "Canceled", "No-Show").
+Reservation Status Date: Date when the final reservation status was set (date).
