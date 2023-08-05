@@ -1,0 +1,2 @@
+
+The Hotel Cancellation Project aims to develop a machine learning model for predicting hotel cancellations based on historical reservation data. By analyzing features like lead time, booking changes, and customer type, the model can determine the likelihood of guests canceling their reservations. This predictive capability enables hotels to optimize resource allocation, reduce revenue losses from cancellations, and improve overall customer satisfaction. The project's goal is to help hotels make informed decisions and better manage their bookings.
